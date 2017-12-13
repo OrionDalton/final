@@ -1,0 +1,40 @@
+/*  Name: Orion Dalton, Connor Lord
+     SID: 01375709, 01409362
+   email: orion_dalton@student.uml.edu, connor_lord@student.uml.edu
+*/
+
+body {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 10px 0 0 0;
+}
+
+canvas {
+  margin: 10px 0;
+}
+
+.filters button {
+    margin: 10px 0;
+    background-color: 'MediumSpringGreen';
+}
+
+input[type="range"] {
+  margin: 0 0 10px 0;
+}
+
+.p {
+  padding-top: 50px;
+  clear: both;
+}
+
+button {
+    font-family: 'Baumans';
+    background-color: 'MediumSpringGreen';
+}
+
+input[type="button"]{
+    background-color: 'MediumSpringGreen';
+}
