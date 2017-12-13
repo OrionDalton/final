@@ -1,0 +1,51 @@
+Name:           Orion Dalton
+Email:          orion_dalton@student.uml.edu
+SID:            01375709
+Partner Name:   Connor Lord
+Partner Email:  connor-lord@student.uml.edu
+Partner SID:    01409362
+
+   Distribution of Content:
+Orion:
+  Basic website layout
+  Meshing code segments together
+  Debugging/error checking
+
+Connor:
+  Code segment generation
+    lightbox     (modal)
+    image editor (camanjs)
+    Webpage icon
+  Facebook/Twitter share
+  Image saving (through camanjs) 
+
+Both:
+  Work on submission/deletion
+  CSS and final page layout
+
+Sources:
+  http://jsbin.com/uboqu3/1/edit?html for                      image uploading
+  https://developers.facebook.com/docs/plugins/share-button    Facebook button
+  https://dev.twitter.com/web/javascript/loading               Twitter button
+  https://www.sitepoint.com/manipulating-images-from-web-pages-camanjs/ 
+                                                               Image editing
+w3Schools:
+  General reference CSS/HTML/Javascript/php
+  https://www.w3schools.com/howto/howto_css_modal_images.asp   Modal images
+
+report:
+  This site solved the problem of the default final: the image storing/editing 
+  site. we attempted to solve this problem with a layout plan and tried out best 
+  to get the site to look like out plans. I set up a skeleton of the webpage while 
+  my partner looked for useful tools to enact our plans. By the time I had 
+  finished with the skeleton, he had started feeding me the code to make the site 
+  work. I then more or less spent the majority of my time adding and debugging the 
+  code that was given to my by my partner after agreeing that it did what we wanted 
+  it to. We finished off the project by working together on the stylings of the page.
+
+We had to leave in some errors that we could not find the source of. On the main page, 
+the first image will never load, however the modal still works correctly when a user 
+clicks on the absent image. Sometimes the twitter share button disappears, but will 
+reappear on page refesh. Something (we believe the weblab servers had something to 
+do with it) would not allow the webpage to access the computer's folders, so saving 
+and deleting became impossible.
